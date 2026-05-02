@@ -26,4 +26,4 @@ Versão robusta do clássico Pedra, Papel e Tesoura contra a IA.
 *   **Hardware**: Intel Core i3-12100F | 16GB RAM | GTX 1050 Ti
 
 ---
-*Foco: Engenharia de Software no **CEFET 2026** 🚀*
+*Foco: Engenharia de Software 🚀*
