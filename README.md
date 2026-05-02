@@ -1,16 +1,31 @@
-Este repositório contém meus exercícios e projetos práticos desenvolvidos durante o **Mundo 2** do curso de Python. Atualmente, estou focado em dominar estruturas de controle e lógica para **Back-end**.
+# 🐍 Python Mundo 2
 
-## 🚀 Projetos em Destaque
+Repositório destinado aos exercícios e desafios do **Mundo 2** do curso de Python. Foco em estruturas de controle, condições aninhadas e lógica de programação para Back-end.
 
-### ⚽ Simulador de Olheiro
-Um programa de análise de contratações baseado em dados reais de jogadores (Overall, Idade e Preço). 
-*   **Conceitos aplicados**: Condições aninhadas (`if`, `elif`, `else`), operadores lógicos (`and`) e formatação de strings.
-*   **Inspiração**: Minha experiência criando o time *Imperium FC* no EA Sports FC 25.
+## 📂 Organização do Repositório
 
-## 🛠️ Tecnologias e Ferramentas
-*   **Linguagem**: Python 3
-*   **IDE**: PyCharm
-*   **Ambiente**: Windows 11 (PC com GTX 1050 Ti e i3-12100F)
+*   **/Exercicios**: Pasta contendo os scripts desenvolvidos durante as aulas e desafios práticos.
+
+## 🚀 Projetos Recentes
+
+### ⚽ Simulador de Pênaltis(`penalty simulator.py`)
+Um mini-game interativo onde o jogador disputa contra a "IA" do computador.
+*   **Tecnologias**: Python, Biblioteca `random`.
+*   **Lógica**: O sistema utiliza o método `random.choice` para simular a decisão do goleiro em tempo real.
+
+### 📋 Simulador de olheiro(`signing players.py`)
+Sistema de análise de mercado para gestão de elenco no EA Sports FC 25.
+*   **Funcionalidade**: Filtra contratações com base em Overall, Idade e Preço.
+*   **Conceitos**: Operadores lógicos (`and`), F-strings e Condições Aninhadas.
 
 ---
-*Estudante do 9º ano focado em ingressar no CEFET para Engenharia de Software.*
+
+## 💻 Meu Setup & Objetivos
+*   **Processador**: Intel Core i3-12100F
+*   **Memória**: 16GB RAM
+*   **GPU**: GTX 1050 Ti
+*   **Armazenamento**: SSD NVMe Kingston
+*   **Foco**: Focado em Engenharia de Software.
+
+---
+*Atualizado em: 02/05/2026*
