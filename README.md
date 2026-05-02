@@ -1,31 +1,29 @@
 # 🐍 Python Mundo 2
 
-Repositório destinado aos exercícios e desafios do **Mundo 2** do curso de Python. Foco em estruturas de controle, condições aninhadas e lógica de programação para Back-end.
+Repositório dedicado aos desafios do **Mundo 2** do curso de Python. Aqui foco em transformar lógica de programação em ferramentas práticas.
 
-## 📂 Organização do Repositório
+## 📂 Projetos em Destaque
 
-*   **/Exercicios**: Pasta contendo os scripts desenvolvidos durante as aulas e desafios práticos.
+### ⚽ Simulador de Olheiro - (`signing players.py`)
+Script personalizado para o gerenciamento de contratações de clubes no EA Sports FC 25.
+*   **Funcionalidade**: Analisa atributos e decide sobre a viabilidade de contratação de novos atletas para o elenco.
 
-## 🚀 Projetos Recentes
+### 🥅 Simulador de Pênaltis (`penalty simulator.py`)
+Jogo interativo que utiliza lógica de probabilidade e aleatoriedade.
+*   **Destaque**: Uso da biblioteca `random` para simular as decisões do goleiro em tempo real.
 
-### ⚽ Simulador de Pênaltis(`penalty simulator.py`)
-Um mini-game interativo onde o jogador disputa contra a "IA" do computador.
-*   **Tecnologias**: Python, Biblioteca `random`.
-*   **Lógica**: O sistema utiliza o método `random.choice` para simular a decisão do goleiro em tempo real.
-
-### 📋 Simulador de olheiro(`signing players.py`)
-Sistema de análise de mercado para gestão de elenco no EA Sports FC 25.
-*   **Funcionalidade**: Filtra contratações com base em Overall, Idade e Preço.
-*   **Conceitos**: Operadores lógicos (`and`), F-strings e Condições Aninhadas.
-
----
-
-## 💻 Meu Setup & Objetivos
-*   **Processador**: Intel Core i3-12100F
-*   **Memória**: 16GB RAM
-*   **GPU**: GTX 1050 Ti
-*   **Armazenamento**: SSD NVMe Kingston
-*   **Foco**: Focado em Engenharia de Software.
+### 🎮 Jokenpô (`jokenpo.py`)
+Versão robusta do clássico Pedra, Papel e Tesoura contra a IA.
+*   **Segurança**: Implementação de validação de input (`0 <= jog <= 2`) para evitar erros de execução.
+*   **Interface**: Uso de `time.sleep` para criar efeitos de animação no console.
 
 ---
-*Atualizado em: 02/05/2026*
+
+## 🛠️ Evolução Técnica & Setup
+*   **Linguagem**: Python 3.x (Mundo 2)
+*   **Bibliotecas**: `random`, `time`, `datetime`
+*   **Conceitos**: Condições aninhadas, listas/tuplas e validação de dados.
+*   **Hardware**: Intel Core i3-12100F | 16GB RAM | GTX 1050 Ti
+
+---
+*Foco: Engenharia de Software no **CEFET 2026** 🚀*
